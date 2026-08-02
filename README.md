@@ -1,3 +1,13 @@
-This employee databse was my performance task for the AP CSP exam which I took in 2024 and got a 4 in.
-This program allowes the user to enter information for an employee and store their information.
-The user can also add or delete employees and modify their information in the program as well.
+AP CSP Create Task: Employee Database System
+
+A terminal-driven Employee Database Management System written in Python, designed to satisfy the procedural and data abstraction requirements of the AP Computer Science Principles Create Performance Task.
+
+Technical Implementations
+  Complex Data Abstraction**: Manages employee records as structured data rows using a Python list of dictionaries (`List[Dict[str, str]]`).
+  Complete Record Lifecycle (CRUD): Features isolated procedures to seamlessly create, read, update, and delete active personnel entries in s     system memory.
+Algorithmic Text Traversal**: Implements a case-insensitive string-parsing routine that filters database states to isolate records by partial first or last name matches.
+Modular Control Architecture: Divides user-interface mechanics and data manipulation routines into dedicated functional parameters.
+
+Tech Stack
+  Language: Python 3
+  Execution Interface: Command Line (CLI / Terminal)
